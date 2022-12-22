@@ -1,5 +1,19 @@
 # Guest-Room-Booking
 
+#Preparation for run application
+
+ * composer Update
+ 
+ * change .env.example to .env
+ 
+ * php artisan key:generate for generating app key
+ 
+ * set database 
+ 
+ * php artisan optimize:clear
+ 
+ * php artisan serve
+
 #Admin login
 
    *john@gmail.com - 12345678
