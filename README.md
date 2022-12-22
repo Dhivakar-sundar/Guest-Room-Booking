@@ -15,4 +15,4 @@
 #house owner dashboard
 
 
-![alt text][Uploading Screenshot (243).png…]()
+![alt text] [Screenshot (243)](https://user-images.githubusercontent.com/99136181/209130769-0d5d338e-d4f8-44f5-b179-91d484270634.png)
